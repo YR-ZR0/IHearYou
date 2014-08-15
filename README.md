@@ -31,5 +31,5 @@ $> echo TODO.txt
 =============
 
 - [ ] Genre Listings
-  - [- ] Top Tracks
-  - [- ] Loved Tracks
+  - [x] Top Tracks
+  - [x] Loved Tracks
