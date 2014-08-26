@@ -26,10 +26,3 @@ Requirements
 * Python 3.3 || >
 * Pylast python libary
 * and the <strike>hardest</strike> part a valid API account and tokens
-
-$> echo TODO.txt
-=============
-
-- [ ] Genre Listings
-  - [x] Top Tracks
-  - [x] Loved Tracks
