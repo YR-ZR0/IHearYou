@@ -18,6 +18,8 @@ API_SECRET = "Secret"
 
 # File options
 Today = str(datetime.date.today())
+root =Tk()
+Tk.withdraw(root)
 dir = askdirectory()
 output = open(dir + "/" +"IHY" + Today + ".log", mode='a',)
 
